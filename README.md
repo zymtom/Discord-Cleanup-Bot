@@ -1,3 +1,5 @@
+*This is available under the MIT license, so you're free to distribute and edit this as you wish*
+
 This is a small bot that autocleans your chat, oldest to newest message and keeps x amount of messages as history.
 
 
